@@ -1,41 +1,72 @@
 body{
     margin: 0 auto;
+    width: 50%;
 }
 .header1{
     width: 100%;
-    background: #1f90f7 url(./img/logo.svg) no-repeat left bottom;
+    background: #1f90f7 url(./img/pattern.png) top;
+    background-size: contain;
     height: 80px;
 }
+.header1 img{
+    width: 16%;
+    padding-top: 36px;
+    padding-left: 5px;
+}
 .header2{
-    padding: 5px;
-    margin-top: 3px;
+   margin: 6px;
 }
 .header2 h1{
-    font-size: 48px;
+    font-size: 35px;
     margin: 0px;
 }
 .autore{
-    font-size: 16px;
+    font-size: 14px;
     margin: 0px;
+    color: gray;
 }
 .autore span{
     color: #7ec0fd;
 }
 .data{
-    font-size: 13px;
+    font-size: 11px;
     margin: 0px;
+    color: gray;
 }
 .immagini{
     margin: 10px;
 }
 .foto_uno{
-    width: 40%;
+    width: 52%;
 }
 .foto_due{
-    width: 34%;
+    width: 44%;
 } 
 .immagini p{
-    font-size: 13px;
+    font-size: 11px;
     margin-top: 0;
 }
-.paragrafo
+.paragrafo{
+    margin: 26px 5px;
+}
+.paragrafo span{
+    background-color: yellow;
+}
+.lista{
+    padding-left: 20px;
+}
+.tabella{
+    width: 100%;
+    table-layout: fixed;
+    margin-top: 30px;
+}
+.prima_riga{
+    background-color: #5aa8f1;
+    color: white;
+}
+.seconda_riga{
+    background-color: #A5d2fd;
+}
+.quarta_riga{
+    background-color: #A5d2fd;
+}
