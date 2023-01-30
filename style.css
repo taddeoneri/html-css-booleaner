@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+}
+.header1{
+    width: 100%;
+    background: #1f90f7 url(./img/logo.svg) no-repeat left bottom;
+    height: 80px;
+    
+}
+.header2{
+    padding: 5px;
+    margin-top: 3px;
+}
+.titolo{
+    font-size: 48px;
+    margin: 0px;
+}
+.autore{
+    font-size: 16px;
+    margin: 0px;
+}
+.data{
+    font-size: 13px;
+    margin: 0px;
+}
