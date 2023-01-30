@@ -5,13 +5,12 @@ body{
     width: 100%;
     background: #1f90f7 url(./img/logo.svg) no-repeat left bottom;
     height: 80px;
-    
 }
 .header2{
     padding: 5px;
     margin-top: 3px;
 }
-.titolo{
+.header2 h1{
     font-size: 48px;
     margin: 0px;
 }
@@ -19,7 +18,24 @@ body{
     font-size: 16px;
     margin: 0px;
 }
+.autore span{
+    color: #7ec0fd;
+}
 .data{
     font-size: 13px;
     margin: 0px;
 }
+.immagini{
+    margin: 10px;
+}
+.foto_uno{
+    width: 40%;
+}
+.foto_due{
+    width: 34%;
+} 
+.immagini p{
+    font-size: 13px;
+    margin-top: 0;
+}
+.paragrafo
