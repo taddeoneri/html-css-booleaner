@@ -6,7 +6,6 @@ body{
     width: 100%;
     background: #1f90f7 url(./img/pattern.png);
     background-size: contain;
-    height: 80px;
 }
 .header1 img{
     width: 16%;
